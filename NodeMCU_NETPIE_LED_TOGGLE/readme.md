@@ -1,7 +1,7 @@
 
-### 1
+### วิธีทำ
 
-![alt text](https://netpie.gitbooks.io/5-freeboard/content/lab-2.html)
+https://netpie.gitbooks.io/5-freeboard/content/lab-2.html
 
 
 

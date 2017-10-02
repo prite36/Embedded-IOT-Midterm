@@ -27,12 +27,12 @@ void sendState(){
 }
 
 void updateIO(){
-  if (state = 0) {
-    digitalWrite(LEDPin, LOW);
+  if (state >= 1) {
+    digitalWrite(LEDPin, HIGH);
   }
   else {
-    state = 1;
-    digitalWrite(LEDPin, HIGH);
+    state = 0;
+    digitalWrite(LEDPin, LOW);
   }
 }
 

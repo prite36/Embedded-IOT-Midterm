@@ -1,6 +1,5 @@
 #include <ESP8266WiFi.h>
 #include <MicroGear.h>
-
 const char* ssid = "Bigcamp_FTTx";      //************Change*******************
 const char* password = "bc123456";        //************Change*******************
 
